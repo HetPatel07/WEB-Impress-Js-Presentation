@@ -1,0 +1,247 @@
+body {
+    background: radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+}
+
+.slide {
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    display: block;
+    padding: 40px;
+    margin: 20px auto;
+    font-size: 48px;
+    background-color: black;
+    line-height: 1.5;
+}
+
+.slide p {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.slide h1 {
+    padding: 15px 0;
+}
+
+.step1 {
+    background-image: url(/images/step1change.jpg);
+    background-color: transparent;
+    background-size: 0 center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step2 {
+    width: 1000px;
+    background-image: url(/images/step2change.jpg);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step3 {
+    width: 1000px;
+    background-image: url(/images/step2.gif);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step4 {
+    width: 1000px;
+    background-image: url(/images/step3.gif);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step5 {
+    background-image: url(/images/step4.gif);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step6 {
+    width: 1100px;
+    height: 800px;
+    /* background-image: url(/images/revenuemodel.png); */
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step8 {
+    width: 1000px;
+    height: 750px;
+    /* background-image: url(/images/vrheadset.jpg); */
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step9 {
+    width: 1500px;
+    height: 750px;
+    background-image: url(/images/Capture.PNG);
+    background-color: transparent;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step10 {
+    background-color: #fff;
+    width: 1000px;
+    background-image: url(/images/step10.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step11 {
+    width: 800px;
+    background-color: #fff;
+    overflow: hidden;
+    padding-left: 80px;
+}
+
+.step11 span {
+    float: left !important;
+    font-size: 40px;
+}
+
+.content {
+    overflow: hidden;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'PT Serif', serif;
+}
+
+.step11 h1 {
+    float: left !important;
+    clear: left;
+    text-align: left;
+    font-size: 150px;
+    font-weight: bold;
+}
+
+.step12 {
+    background-color: #fff;
+    width: 1000px;
+    background-image: url(/images/step12.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step13 {
+    font-family: 'PT Serif', serif;
+    background: transparent;
+}
+
+.step13,
+.step17 span {
+    font-size: 50px;
+    display: block;
+}
+
+.step13 span:nth-of-type(2) {
+    font-weight: bold;
+    font-size: 150px;
+    display: block;
+}
+
+.step17 span:nth-of-type(2) {
+    font-weight: bold;
+    font-size: 150px;
+    display: block;
+}
+
+.step14 {
+    width: 800px;
+    background-image: url(/images/step15.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step15 {
+    width: 900px;
+    background-image: url(/images/step15change.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step16 {
+    width: 800px;
+    background-image: url(/images/step16.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step17 {
+    width: 700px;
+    background-color: #fff;
+    /* background-image: url(/images/step17.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+}
+
+.step18 {
+    width: 700px;
+    background-image: url(/images/step17.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step19 {
+    width: 700px;
+    background-image: url(/images/step18.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step20 {
+    margin-left: 50px;
+    width: 900px;
+    background-image: url(/images/step19.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step21 {
+    width: 900px;
+    background-image: url(/images/step20.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step22 {
+    background-image: url(/images/step22.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.step23 {
+    background-image: url(/images/step23.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
